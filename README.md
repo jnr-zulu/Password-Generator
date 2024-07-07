@@ -1,4 +1,4 @@
 🔐 Password Generator & Checker
-Inspired by enterprise-grade tools
+Inspired by 1Password
 Generate strong passwords & assess password strength
 GitHub: 
